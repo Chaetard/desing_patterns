@@ -1,4 +1,4 @@
-### Hi There !!
+# Hi There !!
 
 # Repositorio de Patrones de Diseño
 
@@ -12,16 +12,12 @@ Cada patrón de diseño estará organizado en carpetas individuales con la sigui
 ### Descripción de cada archivo:
 
 - `PatronNombre.md`: Contiene una explicación detallada del patrón, cómo funciona y en qué situaciones es más adecuado utilizarlo. También incluirá ventajas, desventajas y posibles escenarios de uso.
-  
-- `Ejemplos/`: Carpeta que contiene ejemplos en código (Java o el lenguaje que elijas) mostrando la implementación del patrón en situaciones reales.
-
-- `Referencias.md`: Enlaces a recursos adicionales, como artículos, videos o libros que pueden ser útiles para profundizar en el patrón de diseño.
 
 ## Patrones de Diseño Disponibles
 
-- [Patrón Singleton](PatronSingleton/PatronSingleton.md)
-- [Patrón Factory](PatronFactory/PatronFactory.md)
-- [Patrón Observer](PatronObserver/PatronObserver.md)
+- [Patrón Singleton](Singleton/PatronSingleton.md)
+- [Patrón Factory](Factory/PatronFactory.md)
+
 
 *Se irán añadiendo más patrones conforme avance el proyecto.*
 
